@@ -8,17 +8,7 @@
 
 <p align="center">
 
-  <a href="http://python.org">
-    <img src="https://img.shields.io/badge/python-v3-blue">
-  </a>
-  <a href="https://php.net">
-    <img src="https://img.shields.io/badge/php-7.4.4-green"
-         alt="php">
-  </a>
-
-  <a href="https://en.wikipedia.org/wiki/Linux">
-    <img src="https://img.shields.io/badge/Platform-Linux-red">
-  </a>
+ 
 
 </p>
 
