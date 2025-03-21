@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-<img src="imgs/1demo.png](https://github.com/CodeCr4cker/Required-Document/blob/main/1demo.png" alt="StormBreaker"></a>
+<img src="https://github.com/CodeCr4cker/Required-Document/blob/main/1demo.png" alt="StormBreaker"></a>
 
 </h1>
 
